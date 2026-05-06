@@ -6,8 +6,8 @@ A real-time intelligent gate access system developed using Computer Vision and M
 
 **🚀 Project Overview**
 
-_This project was designed to create a smart and scalable gate access solution capable of detecting, recognizing, and verifying authorized individuals in real time through live camera input. The system integrates image preprocessing, face recognition models, database management, and automated access control into a complete end-to-end pipeline.
-_
+This project was designed to create a smart and scalable gate access solution capable of detecting, recognizing, and verifying authorized individuals in real time through live camera input. The system integrates image preprocessing, face recognition models, database management, and automated access control into a complete end-to-end pipeline.
+
 **🛠️ Technologies Used**
 
 1. Python
